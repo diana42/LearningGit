@@ -1,0 +1,19 @@
+Software versioning system: exaple git, SVN
+open source - surese publice, software gratuit.
+repository - folderul cu proiectul
+checkout  - a downloada un repository
+clone - a downloada un repository
+
+Linie de comanda:
+git clone <adresa repozitoriul>
+git add <nume fisier>
+git add *
+
+cd <nume director>             deschide directorul
+ls								afiseaza continutul directorului
+
+cd .. 			navigheaza in directorul parinte
+
+git commit -m "Commit message"
+git push 
+git status
